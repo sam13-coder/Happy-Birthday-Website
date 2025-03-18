@@ -67,4 +67,4 @@ A special thanks to my crush for inspiring this project. ❤️
 
 ---
 
-Made with ❤️ by [Aoudumber Bade](https://github.com/sam13-coder)  
+Made with ❤️ by [Sam Malik](https://github.com/sam13-coder)  
