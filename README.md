@@ -29,13 +29,6 @@ This project is my way of combining my coding skills with a heartfelt gesture. P
 - **JavaScript**: For the interactive pop-up message.  
 - **GIFs**: To add that extra festive vibe.  
 
----
-
-## 🎥 **Instagram Reel**  
-I turned this project into a reel! Check it out here: [https://www.instagram.com/reel/DG_AZoAo7P4/?igsh=bXl0MWFseXg1NG1w]  
-
----
-
 ## 🧑‍💻 **How to Use This Project**  
 Want to surprise your crush or someone special? Here’s how you can use this project:  
 
@@ -74,4 +67,4 @@ A special thanks to my crush for inspiring this project. ❤️
 
 ---
 
-Made with ❤️ by [Aoudumber Bade](https://github.com/Aoudumber-Bade)  
+Made with ❤️ by [Aoudumber Bade](https://github.com/sam13-coder)  
